@@ -9,3 +9,4 @@ dasda)
 
 dsadasdada
 
+print(a)
