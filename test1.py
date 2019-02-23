@@ -7,5 +7,4 @@ set_defaults(adasdsad
 dasda)
 
 
-dsadasdada
-
+print(sep) 
