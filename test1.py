@@ -1,12 +1,3 @@
-print(1)
-выфвфвфыв
-sdasdasda
-set_defaults(adasdsad
-
-
-dasda)
-
-
-dsadasdada
-
-print(a)
+a = input('Enter int:')
+for x in range(len(a)):
+    print(int(a[x]))
